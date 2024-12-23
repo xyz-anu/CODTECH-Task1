@@ -81,6 +81,3 @@ This project provided valuable hands-on experience with the basic steps of Explo
 - Extend the analysis to the test dataset for a more comprehensive exploration.
 
 ---
-
-## License:
-This project is available under the [MIT License](LICENSE).
