@@ -6,6 +6,11 @@
 **Domain:** Data Science  
 **Duration:** 20 December 2024 to 20 January 2025 
 
+![histogram](https://github.com/user-attachments/assets/d346eda5-85bb-425e-9654-ed94ef2e5501)
+![fare by age](https://github.com/user-attachments/assets/175cbf79-8b64-43f2-a843-ee3779d3fc93)
+![average fair by age](https://github.com/user-attachments/assets/1d214435-0b2e-4317-960a-3e55a4e7fddb)
+![age vs fare](https://github.com/user-attachments/assets/223fac2d-bf4c-4596-af4c-3d358f95cc67)
+
 ---
 
 ## Project Title: 
