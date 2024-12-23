@@ -1,6 +1,6 @@
 # CODTECH-Task1
 Exploratory Data Analysis
-Name: Anushka Harshavadan Nevgi
+**Name:** Anushka Harshavadan Nevgi
 Company: CODTECH IT SOLUTIONS
 ID: CT08EQH
 Domain: Data Science
